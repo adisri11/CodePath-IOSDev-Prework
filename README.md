@@ -23,29 +23,29 @@ The following **required** functionality is completed:
 ## App Brainstorming
 App: Flora
 * **Focus Session with Virtual Trees**
-- Grow a virtual tree each time you complete a focus session without leaving the app
+    - Grow a virtual tree each time you complete a focus session without leaving the app
 * **Integrated To-Do List**
-- You can add and manage your tasks within the app
-- You can link each task to a focus session
+    - You can add and manage your tasks within the app
+    - You can link each task to a focus session
 * **Detailed Progress Statistics**
-- You can view daily, weekly, and monthly statistics
+    - You can view daily, weekly, and monthly statistics
 
 App: Instagram
 * **Reactions**
-- You can react to any message or post with an emoji of your choosing
+    - You can react to any message or post with an emoji of your choosing
 * **Notes**
-- You can share temporary little life updates or songs on your notes
+    - You can share temporary little life updates or songs on your notes
 * **Notes**
-- Favorites: Only posts from accounts you have favorited will appear on your feed
-- Following: Only posts from accounts you follow will appear on your feed
+    - Favorites: Only posts from accounts you have favorited will appear on your feed
+    - Following: Only posts from accounts you follow will appear on your feed
 
 App: Max
 * **Tabs**
-- There are different tabs that divide what is showing into categories for example shows or sports
+    - There are different tabs that divide what is showing into categories for example shows or sports
 * **Recommended For You**
-- Based on your watch history, the algorithm with recommend shows or movies that are similar
+    - Based on your watch history, the algorithm with recommend shows or movies that are similar
 * **Downloads**
-- There is a tab just for the shows or movies you downloaded on your device so you do not have to search for them
+    - There is a tab just for the shows or movies you downloaded on your device so you do not have to search for them
 
 **App Idea**
 Many people face the daily challenge of deciding what to cook with the ingredients they already have at home. Traditional recipes often call for specific items that might be missing, and not everyone has the time—or the desire—to make a last-minute trip to the grocery store. That’s where What to Make comes in.
