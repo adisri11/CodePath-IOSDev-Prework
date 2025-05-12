@@ -48,6 +48,7 @@ App: Max
     - There is a tab just for the shows or movies you downloaded on your device so you do not have to search for them
 
 **App Idea**
+
 Many people face the daily challenge of deciding what to cook with the ingredients they already have at home. Traditional recipes often call for specific items that might be missing, and not everyone has the time—or the desire—to make a last-minute trip to the grocery store. That’s where What to Make comes in.
 
 What to Make is a smart, user-friendly platform designed to take the guesswork out of meal planning. Users can input or upload a list of ingredients they currently have in their kitchen—either manually, by scanning barcodes, or even through photo recognition. The app then instantly generates personalized recipe suggestions based solely on those available ingredients.
